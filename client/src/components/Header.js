@@ -10,7 +10,7 @@ class Header extends Component {
       case false:
         return (
           <li>
-            <a href="/auth/google/"> login with google</a>
+            <a href="/auth/google/"> Login with Google!</a>
           </li>
         );
       default:
@@ -22,7 +22,7 @@ class Header extends Component {
             Credits: {this.props.auth.credit}
           </li>,
           <li key="2">
-            <a href="/api/logout"> logout</a>
+            <a href="/api/logout"> Logout</a>
           </li>
         ];
     }
@@ -30,7 +30,7 @@ class Header extends Component {
   render() {
     return (
       <nav>
-        <div className="nav-wrapper">
+        <div className="nav-wrapper teal">
           <Link to={this.props.auth ? "/surveys" : "/"} className="brand-logo">
             MySurvey
           </Link>
