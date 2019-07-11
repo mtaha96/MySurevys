@@ -1,10 +1,11 @@
 import React, { Component } from "react";
 import { Link } from "react-router-dom";
+import SurveysList from "./SurveysList";
 class Dashboard extends Component {
   render() {
     return (
       <div>
-        <h1> Dashboard</h1>
+        <SurveysList />
         <div className="fixed-action-btn">
           <Link
             to="/surveys/new"
