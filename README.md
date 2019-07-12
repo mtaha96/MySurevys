@@ -1,5 +1,4 @@
 # MySurevys
-<pre>
 Link to the website: https://mysterious-depths-46026.herokuapp.com/
 Hello everyone! This is a website that I created that allows user to create surveys and collect feedback from their customers. This website would be used primarily by business owner who are interested in seeking feedback on their products from the user. 
 
@@ -58,6 +57,5 @@ These instructions will get you a copy of the project up and running on your loc
 
 ![demo7](/images/email.JPG)
 
-</pre>
 
 
