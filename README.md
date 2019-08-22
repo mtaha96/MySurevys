@@ -1,6 +1,6 @@
 # MySurevys
 Link to the website: https://mysterious-depths-46026.herokuapp.com/
-Hello everyone! This is a website that I created that allows user to create surveys and collect feedback from their customers. This website would be used primarily by business owner who are interested in seeking feedback on their products from the user. 
+Hello everyone! As a part of an online course, I built a website that I created that allows user to create surveys and collect feedback from their customers. This website would be used primarily by business owner who are interested in seeking feedback on their products from the user. 
 
 The following were the languages and libraries used in the project:
 •	Developed the front-end application using React/Redux libraries and developed the back-end using Express/Node API to handle the calls, and MongoDB and Mongoose for the storage. The website is deplyed on Heroku. 
